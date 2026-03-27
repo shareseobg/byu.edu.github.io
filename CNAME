@@ -1,1 +1,5 @@
 
+echo "maththeworld.byu.edu" > CNAME
+git add CNAME
+git commit -m "Add custom domain maththeworld.byu.edu"
+git push
